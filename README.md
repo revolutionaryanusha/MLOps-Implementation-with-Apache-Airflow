@@ -2,8 +2,7 @@
 Implement Apache Airflow to automate data extraction, transformation, and version-controlled storage.
 # MLOps Implementation with Apache Airflow
 
-## Objective
-Implement Apache Airflow to automate data extraction, transformation, and version-controlled storage.
+
 
 ## Tasks
 1. **Data Extraction:**
@@ -19,7 +18,7 @@ Implement Apache Airflow to automate data extraction, transformation, and versio
 4. **Apache Airflow DAG Development:**
    - Write an Airflow DAG to automate the extraction, transformation, and storage process.
 
-## Deliverables
+
 1. Airflow DAG script.
 2. Documentation of preprocessing steps and DVC setup.
 3. Brief report detailing workflow and challenges.
