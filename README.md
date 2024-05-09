@@ -55,4 +55,3 @@ Implement Apache Airflow to automate data extraction, transformation, and versio
 
 6. Run the Airflow DAG `mlops_data_pipeline`.
 
-## Repository Structure
